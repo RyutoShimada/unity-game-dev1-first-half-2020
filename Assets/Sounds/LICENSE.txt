@@ -1,0 +1,17 @@
+coin1, coin2
+https://dova-s.jp/se/play404.html
+
+BGM1
+https://dova-s.jp/bgm/play13040.html
+
+BGM2
+https://dova-s.jp/bgm/play12963.html
+
+bgm_maoudamashii_fantasy13
+https://maoudamashii.jokersounds.com/archives/bgm_maoudamashii_fantasy13.html
+
+BallBGM
+https://maoudamashii.jokersounds.com/archives/se_maoudamashii_se_sound02.html
+
+AitemBGM
+https://maoudamashii.jokersounds.com/archives/se_maoudamashii_system47.html
